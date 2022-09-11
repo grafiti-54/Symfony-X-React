@@ -3,6 +3,7 @@
 # Mise en place du projet (effectué)
 
 > symfony composer req symfony/webpack-encore-bundle
+
 supprimmer les fichiers et dossiers du dossier assets et créer à l’intérieur de celui ci un dossier react et un dossier styles
 A l’intérieur du dossier react créer un fichier index.js
 A l’intérieur du dossier styles creer un fichier styles.scss
