@@ -32,7 +32,10 @@ Dans le fichier templates\base.html.twig changer le nom de fichier css appelé:
 
 
 > npm install --force
-> npm run build  permet de voir les packages manquants et a chaque erreur faire un copier coller des package a installer et les installer depuis la console
+
+> npm run build  
+
+permet de voir les packages manquants et a chaque erreur faire un copier coller des package a installer et les installer depuis la console à effectuer à chaque fois que nécessaire.
 
 > npm install @babel/preset-react@^7.0.0 --save-dev
 > npm install sass-loader@^13.0.0 sass --save-dev
